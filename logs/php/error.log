@@ -1,0 +1,75 @@
+[25-Jul-2020 16:03:58 UTC] PHP Warning:  Error while sending QUERY packet. PID=13908 in C:\Users\ndoni\Local Sites\cinofiliurbanigithubio\app\public\wp-includes\wp-db.php on line 2024
+[25-Jul-2020 16:03:58 UTC] PHP Warning:  Error while sending QUERY packet. PID=5492 in C:\Users\ndoni\Local Sites\cinofiliurbanigithubio\app\public\wp-includes\wp-db.php on line 2024
+[25-Jul-2020 16:03:58 UTC] PHP Warning:  Error while sending QUERY packet. PID=13480 in C:\Users\ndoni\Local Sites\cinofiliurbanigithubio\app\public\wp-includes\wp-db.php on line 2024
+[25-Jul-2020 16:03:58 UTC] PHP Stack trace:
+[25-Jul-2020 16:03:58 UTC] PHP Stack trace:
+[25-Jul-2020 16:03:58 UTC] PHP Stack trace:
+[25-Jul-2020 16:03:58 UTC] PHP   1. {main}() C:\Program Files (x86)\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[25-Jul-2020 16:03:58 UTC] PHP   1. {main}() C:\Program Files (x86)\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[25-Jul-2020 16:03:58 UTC] PHP   1. {main}() C:\Program Files (x86)\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[25-Jul-2020 16:03:58 UTC] PHP   2. include() C:\Program Files (x86)\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[25-Jul-2020 16:03:58 UTC] PHP   2. include() C:\Program Files (x86)\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[25-Jul-2020 16:03:58 UTC] PHP   2. include() C:\Program Files (x86)\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[25-Jul-2020 16:03:58 UTC] PHP   3. include() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[25-Jul-2020 16:03:58 UTC] PHP   3. include() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[25-Jul-2020 16:03:58 UTC] PHP   3. include() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[25-Jul-2020 16:03:58 UTC] PHP   4. WP_CLI\bootstrap() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[25-Jul-2020 16:03:58 UTC] PHP   4. WP_CLI\bootstrap() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[25-Jul-2020 16:03:58 UTC] PHP   4. WP_CLI\bootstrap() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[25-Jul-2020 16:03:58 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[25-Jul-2020 16:03:58 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[25-Jul-2020 16:03:58 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[25-Jul-2020 16:03:58 UTC] PHP   6. WP_CLI\Runner->start() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[25-Jul-2020 16:03:58 UTC] PHP   6. WP_CLI\Runner->start() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[25-Jul-2020 16:03:58 UTC] PHP   6. WP_CLI\Runner->start() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[25-Jul-2020 16:03:58 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[25-Jul-2020 16:03:58 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[25-Jul-2020 16:03:58 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[25-Jul-2020 16:03:58 UTC] PHP   8. require() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[25-Jul-2020 16:03:58 UTC] PHP   8. require() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[25-Jul-2020 16:03:58 UTC] PHP   8. require() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[25-Jul-2020 16:03:58 UTC] PHP   9. do_action() C:\Users\ndoni\Local Sites\cinofiliurbanigithubio\app\public\wp-settings.php:403
+[25-Jul-2020 16:03:58 UTC] PHP   9. do_action() C:\Users\ndoni\Local Sites\cinofiliurbanigithubio\app\public\wp-settings.php:403
+[25-Jul-2020 16:03:58 UTC] PHP   9. do_action() C:\Users\ndoni\Local Sites\cinofiliurbanigithubio\app\public\wp-settings.php:403
+[25-Jul-2020 16:03:58 UTC] PHP  10. WP_Hook->do_action() C:\Users\ndoni\Local Sites\cinofiliurbanigithubio\app\public\wp-includes\plugin.php:478
+[25-Jul-2020 16:03:58 UTC] PHP  10. WP_Hook->do_action() C:\Users\ndoni\Local Sites\cinofiliurbanigithubio\app\public\wp-includes\plugin.php:478
+[25-Jul-2020 16:03:58 UTC] PHP  10. WP_Hook->do_action() C:\Users\ndoni\Local Sites\cinofiliurbanigithubio\app\public\wp-includes\plugin.php:478
+[25-Jul-2020 16:03:58 UTC] PHP  11. WP_Hook->apply_filters() C:\Users\ndoni\Local Sites\cinofiliurbanigithubio\app\public\wp-includes\class-wp-hook.php:311
+[25-Jul-2020 16:03:58 UTC] PHP  11. WP_Hook->apply_filters() C:\Users\ndoni\Local Sites\cinofiliurbanigithubio\app\public\wp-includes\class-wp-hook.php:311
+[25-Jul-2020 16:03:58 UTC] PHP  11. WP_Hook->apply_filters() C:\Users\ndoni\Local Sites\cinofiliurbanigithubio\app\public\wp-includes\class-wp-hook.php:311
+[25-Jul-2020 16:03:58 UTC] PHP  12. autoptimizeMain->setup() C:\Users\ndoni\Local Sites\cinofiliurbanigithubio\app\public\wp-includes\class-wp-hook.php:287
+[25-Jul-2020 16:03:58 UTC] PHP  12. autoptimizeMain->setup() C:\Users\ndoni\Local Sites\cinofiliurbanigithubio\app\public\wp-includes\class-wp-hook.php:287
+[25-Jul-2020 16:03:58 UTC] PHP  12. autoptimizeMain->setup() C:\Users\ndoni\Local Sites\cinofiliurbanigithubio\app\public\wp-includes\class-wp-hook.php:287
+[25-Jul-2020 16:03:58 UTC] PHP  13. do_action() C:\Users\ndoni\Local Sites\cinofiliurbanigithubio\app\public\wp-content\plugins\autoptimize\classes\autoptimizeMain.php:148
+[25-Jul-2020 16:03:58 UTC] PHP  13. do_action() C:\Users\ndoni\Local Sites\cinofiliurbanigithubio\app\public\wp-content\plugins\autoptimize\classes\autoptimizeMain.php:148
+[25-Jul-2020 16:03:58 UTC] PHP  13. do_action() C:\Users\ndoni\Local Sites\cinofiliurbanigithubio\app\public\wp-content\plugins\autoptimize\classes\autoptimizeMain.php:148
+[25-Jul-2020 16:03:58 UTC] PHP  14. WP_Hook->do_action() C:\Users\ndoni\Local Sites\cinofiliurbanigithubio\app\public\wp-includes\plugin.php:478
+[25-Jul-2020 16:03:58 UTC] PHP  14. WP_Hook->do_action() C:\Users\ndoni\Local Sites\cinofiliurbanigithubio\app\public\wp-includes\plugin.php:478
+[25-Jul-2020 16:03:58 UTC] PHP  14. WP_Hook->do_action() C:\Users\ndoni\Local Sites\cinofiliurbanigithubio\app\public\wp-includes\plugin.php:478
+[25-Jul-2020 16:03:58 UTC] PHP  15. WP_Hook->apply_filters() C:\Users\ndoni\Local Sites\cinofiliurbanigithubio\app\public\wp-includes\class-wp-hook.php:311
+[25-Jul-2020 16:03:58 UTC] PHP  15. WP_Hook->apply_filters() C:\Users\ndoni\Local Sites\cinofiliurbanigithubio\app\public\wp-includes\class-wp-hook.php:311
+[25-Jul-2020 16:03:58 UTC] PHP  15. WP_Hook->apply_filters() C:\Users\ndoni\Local Sites\cinofiliurbanigithubio\app\public\wp-includes\class-wp-hook.php:311
+[25-Jul-2020 16:03:58 UTC] PHP  16. autoptimizeMain->check_cache_and_run() C:\Users\ndoni\Local Sites\cinofiliurbanigithubio\app\public\wp-includes\class-wp-hook.php:287
+[25-Jul-2020 16:03:58 UTC] PHP  16. autoptimizeMain->check_cache_and_run() C:\Users\ndoni\Local Sites\cinofiliurbanigithubio\app\public\wp-includes\class-wp-hook.php:287
+[25-Jul-2020 16:03:58 UTC] PHP  16. autoptimizeMain->check_cache_and_run() C:\Users\ndoni\Local Sites\cinofiliurbanigithubio\app\public\wp-includes\class-wp-hook.php:287
+[25-Jul-2020 16:03:58 UTC] PHP  17. autoptimizeConfig->get() C:\Users\ndoni\Local Sites\cinofiliurbanigithubio\app\public\wp-content\plugins\autoptimize\classes\autoptimizeMain.php:165
+[25-Jul-2020 16:03:58 UTC] PHP  17. autoptimizeConfig->get() C:\Users\ndoni\Local Sites\cinofiliurbanigithubio\app\public\wp-content\plugins\autoptimize\classes\autoptimizeMain.php:165
+[25-Jul-2020 16:03:58 UTC] PHP  17. autoptimizeConfig->get() C:\Users\ndoni\Local Sites\cinofiliurbanigithubio\app\public\wp-content\plugins\autoptimize\classes\autoptimizeMain.php:165
+[25-Jul-2020 16:03:58 UTC] PHP  18. autoptimizeOptionWrapper::get_option() C:\Users\ndoni\Local Sites\cinofiliurbanigithubio\app\public\wp-content\plugins\autoptimize\classes\autoptimizeConfig.php:809
+[25-Jul-2020 16:03:58 UTC] PHP  18. autoptimizeOptionWrapper::get_option() C:\Users\ndoni\Local Sites\cinofiliurbanigithubio\app\public\wp-content\plugins\autoptimize\classes\autoptimizeConfig.php:809
+[25-Jul-2020 16:03:58 UTC] PHP  18. autoptimizeOptionWrapper::get_option() C:\Users\ndoni\Local Sites\cinofiliurbanigithubio\app\public\wp-content\plugins\autoptimize\classes\autoptimizeConfig.php:809
+[25-Jul-2020 16:03:58 UTC] PHP  19. get_option() C:\Users\ndoni\Local Sites\cinofiliurbanigithubio\app\public\wp-content\plugins\autoptimize\classes\autoptimizeOptionWrapper.php:48
+[25-Jul-2020 16:03:58 UTC] PHP  19. get_option() C:\Users\ndoni\Local Sites\cinofiliurbanigithubio\app\public\wp-content\plugins\autoptimize\classes\autoptimizeOptionWrapper.php:48
+[25-Jul-2020 16:03:58 UTC] PHP  19. get_option() C:\Users\ndoni\Local Sites\cinofiliurbanigithubio\app\public\wp-content\plugins\autoptimize\classes\autoptimizeOptionWrapper.php:48
+[25-Jul-2020 16:03:58 UTC] PHP  20. wpdb->get_row() C:\Users\ndoni\Local Sites\cinofiliurbanigithubio\app\public\wp-includes\option.php:100
+[25-Jul-2020 16:03:58 UTC] PHP  20. wpdb->get_row() C:\Users\ndoni\Local Sites\cinofiliurbanigithubio\app\public\wp-includes\option.php:100
+[25-Jul-2020 16:03:58 UTC] PHP  20. wpdb->get_row() C:\Users\ndoni\Local Sites\cinofiliurbanigithubio\app\public\wp-includes\option.php:100
+[25-Jul-2020 16:03:58 UTC] PHP  21. wpdb->query() C:\Users\ndoni\Local Sites\cinofiliurbanigithubio\app\public\wp-includes\wp-db.php:2563
+[25-Jul-2020 16:03:58 UTC] PHP  21. wpdb->query() C:\Users\ndoni\Local Sites\cinofiliurbanigithubio\app\public\wp-includes\wp-db.php:2563
+[25-Jul-2020 16:03:58 UTC] PHP  21. wpdb->query() C:\Users\ndoni\Local Sites\cinofiliurbanigithubio\app\public\wp-includes\wp-db.php:2563
+[25-Jul-2020 16:03:58 UTC] PHP  22. wpdb->_do_query() C:\Users\ndoni\Local Sites\cinofiliurbanigithubio\app\public\wp-includes\wp-db.php:1912
+[25-Jul-2020 16:03:58 UTC] PHP  22. wpdb->_do_query() C:\Users\ndoni\Local Sites\cinofiliurbanigithubio\app\public\wp-includes\wp-db.php:1912
+[25-Jul-2020 16:03:58 UTC] PHP  22. wpdb->_do_query() C:\Users\ndoni\Local Sites\cinofiliurbanigithubio\app\public\wp-includes\wp-db.php:1912
+[25-Jul-2020 16:03:58 UTC] PHP  23. mysqli_query() C:\Users\ndoni\Local Sites\cinofiliurbanigithubio\app\public\wp-includes\wp-db.php:2024
+[25-Jul-2020 16:03:58 UTC] PHP  23. mysqli_query() C:\Users\ndoni\Local Sites\cinofiliurbanigithubio\app\public\wp-includes\wp-db.php:2024
+[25-Jul-2020 16:03:58 UTC] PHP  23. mysqli_query() C:\Users\ndoni\Local Sites\cinofiliurbanigithubio\app\public\wp-includes\wp-db.php:2024
